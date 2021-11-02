@@ -1,0 +1,10 @@
+nav{
+    margin: 0px;
+     background-color: rgb(37, 35, 35);
+     padding: 20px;
+     display: flex;
+     flex-direction: row;
+ }
+ body {
+     margin: 0px;
+ }
