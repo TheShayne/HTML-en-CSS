@@ -21,12 +21,12 @@ body{
 }
 
 .flex-item{
-    flex-basis: 100px;
+    flex-basis: 101px;
     flex-shrink: 0;
     
     display: flex;
 
-    width: 500px;
+    width: 501px;
     
 
     align-items: center;
@@ -50,5 +50,5 @@ body{
     background-color: darkgoldenrod;
 }
 .f{
-    background-color: darkolivegreen;
+    background-color: azure;
 }
