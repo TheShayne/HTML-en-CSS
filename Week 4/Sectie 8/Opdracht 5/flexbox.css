@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+}
+body{
+    height: 100vh;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: pink;
+}
+
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: pink;
+    border: 3px solid black;
+
+    width: 500px;
+    height: 500px;
+}
+
+.flex-item{
+    flex-wrap: wrap;
+    background-color: #f1f1f1;
+    width: 83.1px;
+    text-align: center;
+    
+    font-size: 30px
+}
+
+.a{
+    background-color: blue;
+}
+.b{
+    background-color: green;
+}
+.c{
+    background-color: yellow;
+}
+.d{
+    background-color: cornflowerblue;
+}
+.e{
+    background-color: darkgoldenrod;
+}
+.f{
+    background-color: darkolivegreen;
+}
+.g{
+    background-color: rgb(29, 151, 151);
+}
